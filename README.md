@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/lubaina-sakhawat-721842308/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/misstea" target="_blank">
+  <a href="https://github.com/Miss-tea" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://codeforces.com/profile/lub" target="_blank">
@@ -52,12 +52,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=misstea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lubaina's GitHub stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=misstea&theme=tokyonight&hide_border=true" alt="Lubaina's GitHub streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miss-tea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lubaina's GitHub stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Miss-tea&theme=tokyonight&hide_border=true" alt="Lubaina's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misstea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miss-tea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <br>
