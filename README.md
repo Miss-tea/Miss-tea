@@ -5,7 +5,7 @@
 </div>
 
 <h2 align="center">Lubaina Sakhawat</h2>
-<h4 align="center">CS Student | Aspiring Full-Stack Developer</h4>
+<h4 align="center">CS Student </h4>
 
 <br>
 
