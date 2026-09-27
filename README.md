@@ -14,7 +14,7 @@
 
 <br>
 
-## 🔭 What I'm Currently Working On
+## 🔭 Project I've recently worked on
 
 - 🗄️ Building a **Database Management App** using SQL Developer & PHP
 - 🚗 Developing a **microcontroller-based drowsiness detection system** for drivers
