@@ -14,7 +14,14 @@
 
 <br>
 
-## 🔭 Project I've recently worked on
+## 📫 Contact Information
+
+- 📍 Current Location: Dhaka, Bangladesh
+- 📧 Email: lubainasakhawat@gmail.com
+  
+<br> 
+
+## 🔭 Currently Working On
 
 - 🗄️ Building a **Database Management App** using SQL Developer & PHP
 - 🚗 Developing a **microcontroller-based drowsiness detection system** for drivers
