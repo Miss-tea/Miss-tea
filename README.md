@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Currently studying **BSC in CSE**
-- 🧩 Mostly interested in **problem solving** - I practice regularly on **Codeforces**
+- 🧩 Mostly interested in **problem solving**
 - 🤖 Strong interest in **Robotics** and **Cybersecurity**
 - 🚀 Aspiring **Full-Stack Developer**
 
